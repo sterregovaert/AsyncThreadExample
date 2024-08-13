@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Async.iml" filepath="$PROJECT_DIR$/Async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsyncThreadExample - Swimming.iml" filepath="$PROJECT_DIR$/AsyncThreadExample - Swimming.iml" />
     </modules>
   </component>
 </project>
